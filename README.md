@@ -8,7 +8,7 @@ I've been involved in computers since 1981, started writing code on C64, then Ap
 
 In 1995-1997 I co-wrote a Microsoft Access app which managed run records and quality improvement statistics for American Medical Response in Jackson,MS, along with managing IT for 1/3 the state of Mississippi and 1/2 the state of Lousiana for AMR. In 2005 I wrote a VB.NET app for my remote radio news company, Virtual News Center, which is in use today.
 
-In my day to day job, I manage the cloud infrastructure and amd the Producet Manager for the [Convesio Host](https://convesio.com/features/) team. Our suite of E-Commerce scaling tools includes [Convesio Convert](https://convesio.com/convert/) and [Convesio Pay](https://convesio.com/pay) and provides a comprehensive toolset to drive site conversions, payments and scalable E-commerce for business from mon-and-pos to Enterprise.
+In my day to day job, I manage the cloud infrastructure and am the Producet Manager for [Convesio Host](https://convesio.com/features/). Convesio's suite of E-Commerce scaling tools includes [Convesio Convert](https://convesio.com/convert/) and [Convesio Pay](https://convesio.com/pay) and provides a comprehensive toolset to drive site conversions, payments and scalable E-commerce for business from mon-and-pos to Enterprise.
 
 My career in radio has led to my current passion projects, both being developed using NodeJS. Virtual News Producer is a private repo reworking the VB.NET app I wrote for my company in 2005 and moving it online. I'm also working on some software that runs along with the RadioDJ software (the automation for my online radio station) to manage the sound of the station by keeping music rotations and their placement through the day fresh and ever-changing.
 
