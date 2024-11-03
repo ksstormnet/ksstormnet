@@ -6,6 +6,8 @@ Project & Infrastructure Manager, [Convesio](https://convesio.com)
 
 I've been involved in computers since 1981, started writing code on C64, then Apple BASIC, then co-authored a VisiCalc app for tracking finances of a McDonalds franchisee. I've been on the interpreted languages side of the house ever since. BASIC, Visual BASIC, VB.NET, bash, php, and now learning JavaScript (mostly Node). 
 
+In my day to day job, I manage the cloud infrastructure and amd the Producet Manager for the [Convesio Host](https://convesio.com/features/) team. Our suite of E-Commerce scaling tools includes [Convesio Copnvert](https://convesio.com/convert/) and [Convesio Pay](https://convesio.com/pay) and provides a comprehensive toolset to drive site conversions, payments and scalable E-commerce for business from mon-and-pos to Enterprise.
+
 My career in radio has led to my current passion projects, both being developed using NodeJS. Virtual News Producer is a private repo reworking the VB.NET app I wrote for my company in 2005 and moving it online. I'm also working on some software that runs along with the RadioDJ software (the automation for my online radio station) to manage the sound of the station by keeping music rotations and their placement through the day fresh and ever-changing.
 
 *   🌍  I'm based in Kansas
