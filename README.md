@@ -6,7 +6,7 @@ Project & Infrastructure Manager, [Convesio](https://convesio.com)
 
 I've been involved in computers since 1981, started writing code on C64, then Apple BASIC, then co-authored a VisiCalc app for tracking finances of a McDonalds franchisee. I've been on the interpreted languages side of the house ever since. BASIC, Visual BASIC, VB.NET, bash, php, and now learning JavaScript (mostly Node). 
 
-In 1995-1997 I co-wrote a Microsoft Access app which managed run records and quality improvement statistics for American Medical Response in Jackson,MS, along with managing IT for 1/3 the state of Mississippi and 1/2 the state of Lousiana for AMR. In 2005 I wrote a VB.NET app for my remote radio news company, Virtual News Center. which is in use today.
+In 1995-1997 I co-wrote a Microsoft Access app which managed run records and quality improvement statistics for American Medical Response in Jackson,MS, along with managing IT for 1/3 the state of Mississippi and 1/2 the state of Lousiana for AMR. In 2005 I wrote a VB.NET app for my remote radio news company, Virtual News Center, which is in use today.
 
 In my day to day job, I manage the cloud infrastructure and amd the Producet Manager for the [Convesio Host](https://convesio.com/features/) team. Our suite of E-Commerce scaling tools includes [Convesio Convert](https://convesio.com/convert/) and [Convesio Pay](https://convesio.com/pay) and provides a comprehensive toolset to drive site conversions, payments and scalable E-commerce for business from mon-and-pos to Enterprise.
 
