@@ -19,7 +19,7 @@ Connected to my Storm Spotting role, I also vounteer with a local Animal Respons
 *   🚀  I'm currently working on [RadioDJ Rotaion Generator](http://github.com/ksstormnet/rdj-rotations-node)
 *   🧠  I'm learning NodeJS, Prisma, Express, React
 *   ⚡  I'm also a storm chaser, or as I prefer to be called, a Mobile Storm Spotter. My site: [KSStorm.Info](https://ksstorm.info)
-*   🛳️  AND I'm a Travel Advisor (my specialty is NCL Cruises) - More: [Sea Freedom Vacations](https://seafreedom.vacations) - Crusie Trips Live Blog: [We Cruise NCL](https://wecruisencl.com)
+*   🛳️  AND I'm a Travel Advisor (my specialty is NCL Cruises) - More: [Cruise Made EASY](https://cruisemadeeasy.com) - Crusie Trips Live Blog: [We Cruise NCL](https://wecruisencl.com)
 
 
 <a href="https://www.x.com/KSstormInfo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/KSstormInfo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> 
